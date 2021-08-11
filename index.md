@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "FPL Analysis"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I am here to analyze some FPL options
